@@ -2,6 +2,7 @@
 ## Objective of project
 
 **Udacity Data Analyst Nanodegree Data Wrangling Project**
+<br>
 The purpose of this project is to tidy up 3 datasets using Python.
 
 
